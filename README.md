@@ -9,6 +9,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="#TODO">
+    <img src="./assets/img/logo.png" width="200" alt="GitHub: My Profile Link" />
+  </a>
+</p>
+
 <h6 align="center">Google Chrome Extension</h6>
 
 <p align="center">
