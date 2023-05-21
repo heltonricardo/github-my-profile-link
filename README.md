@@ -1,16 +1,16 @@
 <h1 align="center">GitHub: My Profile Link 🔗</h1>
 
 <p align="center">
-  <a href="#TODO">
+  <a href="https://chrome.google.com/webstore/detail/github-my-profile-link/pgmjhnjdlhfmgkckbhkemdhipjkdedop">
     <img src="https://img.shields.io/badge/version-v1.0.0-5d8d37?style=flat-square" alt="Version" />
   </a>
-  <a href="#TODO">
+  <a href="https://chrome.google.com/webstore/detail/github-my-profile-link/pgmjhnjdlhfmgkckbhkemdhipjkdedop">
     <img src="https://img.shields.io/badge/chrome_web_store-link-orange?style=flat-square" alt="Chrome Web Store" />
   </a>
 </p>
 
 <p align="center">
-  <a href="#TODO">
+  <a href="https://chrome.google.com/webstore/detail/github-my-profile-link/pgmjhnjdlhfmgkckbhkemdhipjkdedop">
     <img src="./assets/img/logo.png" width="200" alt="GitHub: My Profile Link" />
   </a>
 </p>
@@ -23,7 +23,7 @@
 
 <br />
 
-##### 👉🏻 [Link to Chrome Web Store](#TODO)
+##### 👉🏻 [Link to Chrome Web Store](https://chrome.google.com/webstore/detail/github-my-profile-link/pgmjhnjdlhfmgkckbhkemdhipjkdedop)
 
 ## Description
 
