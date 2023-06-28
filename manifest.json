@@ -17,5 +17,12 @@
       "matches": ["https://github.com/*"],
       "js": ["script.js"]
     }
+  ],
+
+  "web_accessible_resources": [
+    {
+      "resources": ["assets/img/my-profile.svg"],
+      "matches": ["https://github.com/*"]
+    }
   ]
 }
