@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://chrome.google.com/webstore/detail/github-my-profile-link/pgmjhnjdlhfmgkckbhkemdhipjkdedop">
-    <img src="https://img.shields.io/badge/version-v2.0.0-5d8d37?style=flat-square" alt="Version" />
+    <img src="https://img.shields.io/badge/version-v2.1.0-5d8d37?style=flat-square" alt="Version" />
   </a>
   <a href="https://chrome.google.com/webstore/detail/github-my-profile-link/pgmjhnjdlhfmgkckbhkemdhipjkdedop">
     <img src="https://img.shields.io/badge/chrome_web_store-link-orange?style=flat-square" alt="Chrome Web Store" />
