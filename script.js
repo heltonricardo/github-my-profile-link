@@ -19,14 +19,18 @@ function addMyProfileLink() {
       svgImage.width = "32";
       svgImage.height = "32";
       svgImage.alt = "My Profile";
-      svgImage.src = chrome.runtime.getURL(MY_PROFILE_IMAGE_DIR);
+      svgImage.style.borderRadius = "50%";
+      svgImage.src = `${path}.png?size=40`;
+      svgImage.onerror = function () {
+        this.src = chrome.runtime.getURL(MY_PROFILE_IMAGE_DIR);
+      };
 
       const myProfileAnchor = document.createElement("a");
       myProfileAnchor.href = path;
       myProfileAnchor.id = MY_PROFILE_LINK_ID;
       myProfileAnchor.ariaLabel = "Your Profile";
       myProfileAnchor.className = githubLogoAnchor.classList;
-      
+
       myProfileAnchor.appendChild(svgImage);
       navbar.insertBefore(myProfileAnchor, githubLogoAnchor);
     }
