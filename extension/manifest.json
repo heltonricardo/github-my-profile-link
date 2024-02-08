@@ -1,0 +1,29 @@
+{
+  "name": "GitHub: My Profile Link",
+  "version": "2.2.0",
+  "author": "Helton Ricardo",
+  "description": "A browser extension that adds a convenient link to your GitHub profile in the existing navigation bar.",
+
+  "manifest_version": 3,
+
+  "icons": {
+    "16": "assets/icons/icon16.png",
+    "48": "assets/icons/icon48.png",
+    "128": "assets/icons/icon128.png",
+    "256": "assets/icons/icon256.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "js": ["script.js"]
+    }
+  ],
+
+  "web_accessible_resources": [
+    {
+      "resources": ["assets/img/my-profile.svg"],
+      "matches": ["https://github.com/*"]
+    }
+  ]
+}
