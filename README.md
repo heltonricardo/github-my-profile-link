@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/badge/Version-2.2.0-5d8d37?style=flat-square" alt="Version" />
   </a>
   <a href="https://chrome.google.com/webstore/detail/github-my-profile-link/pgmjhnjdlhfmgkckbhkemdhipjkdedop">
-    <img src="https://img.shields.io/badge/Chrome_Web_Store-link-4285F4?style=flat-square" alt="Chrome Web Store" />
+    <img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat-square" alt="Chrome Web Store" />
   </a>
   <a href="https://addons.mozilla.org/firefox/addon/github-my-profile-link/">
-    <img src="https://img.shields.io/badge/Firefox_Add--ons-link-FF7139?style=flat-square" alt="Firefox Add-ons" />
+    <img src="https://img.shields.io/badge/Firefox_Add--ons-FF7139?style=flat-square" alt="Firefox Add-ons" />
   </a>
 </p>
 
