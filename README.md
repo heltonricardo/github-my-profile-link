@@ -2,20 +2,19 @@
 
 <p align="center">
   <a href="https://chrome.google.com/webstore/detail/github-my-profile-link/pgmjhnjdlhfmgkckbhkemdhipjkdedop">
-    <img src="https://img.shields.io/badge/version-v2.1.0-5d8d37?style=flat-square" alt="Version" />
+    <img src="https://img.shields.io/badge/Version-2.2.0-5d8d37?style=flat-square" alt="Version" />
   </a>
   <a href="https://chrome.google.com/webstore/detail/github-my-profile-link/pgmjhnjdlhfmgkckbhkemdhipjkdedop">
-    <img src="https://img.shields.io/badge/chrome_web_store-link-orange?style=flat-square" alt="Chrome Web Store" />
+    <img src="https://img.shields.io/badge/Chrome_Web_Store-link-4285F4?style=flat-square" alt="Chrome Web Store" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Firefox_Add--ons-link-FF7139?style=flat-square" alt="Firefox Add-ons" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://chrome.google.com/webstore/detail/github-my-profile-link/pgmjhnjdlhfmgkckbhkemdhipjkdedop">
     <img src="./assets/img/logo.png" width="200" alt="GitHub: My Profile Link" />
-  </a>
 </p>
-
-<h6 align="center">Google Chrome Extension</h6>
 
 <p align="center">
   <b>Adds a convenient link to your GitHub profile in the existing navigation bar.</b>
@@ -24,6 +23,8 @@
 <br />
 
 ##### 👉🏻 [Link to Chrome Web Store](https://chrome.google.com/webstore/detail/github-my-profile-link/pgmjhnjdlhfmgkckbhkemdhipjkdedop)
+
+##### 👉🏻 [Firefox Add-ons](#)
 
 ## Description
 
