@@ -6,6 +6,13 @@
 
   "manifest_version": 3,
 
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "helton.contato@proton.me",
+      "strict_min_version": "52.0"
+    }
+  },
+
   "icons": {
     "16": "assets/icons/icon16.png",
     "48": "assets/icons/icon48.png",
