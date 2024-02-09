@@ -19,7 +19,11 @@
 </p>
 
 <p align="center">
-  <b>Adds a convenient link to your GitHub profile in the existing navigation bar.</b>
+  <b>Adds a convenient link to your GitHub profile in the existing navigation bar:</b>
+
+  <a href="#">
+    <img src="./assets/img/screenshot.png" alt="GitHub: My Profile Link" />
+  </a>
 </p>
 
 <br />
