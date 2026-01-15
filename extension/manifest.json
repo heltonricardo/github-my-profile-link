@@ -1,6 +1,6 @@
 {
   "name": "GitHub: My Profile Link",
-  "version": "2.2.0",
+  "version": "3.0.0",
   "author": "Helton Ricardo",
   "description": "A browser extension that adds a convenient link to your GitHub profile in the existing navigation bar.",
 
@@ -9,7 +9,7 @@
   "browser_specific_settings": {
     "gecko": {
       "id": "helton.contato@proton.me",
-      "strict_min_version": "52.0"
+      "strict_min_version": "58.0"
     }
   },
 
