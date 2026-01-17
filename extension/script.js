@@ -1,8 +1,8 @@
 const CONTENT_SELECTOR = "content";
 const META_SELECTOR = "meta[name='user-login']";
 const MY_PROFILE_LINK_ID = "github-my-profile-link";
+const LOGO_SELECTOR = "a[href='https://github.com/']";
 const MY_PROFILE_IMAGE_DIR = "assets/img/my-profile.svg";
-const LOGO_SELECTOR = "a[data-component='IconButton'][href='https://github.com/']";
 
 function createSvgImage(path) {
     const svgImage = document.createElement("img");
