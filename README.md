@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Version-3.0.1-5d8d37?style=flat-square" alt="Version" />
+    <img src="https://img.shields.io/badge/Version-3.0.2-5d8d37?style=flat-square" alt="Version" />
   </a>
   <a href="https://chrome.google.com/webstore/detail/github-my-profile-link/pgmjhnjdlhfmgkckbhkemdhipjkdedop">
     <img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat-square" alt="Chrome Web Store" />
